@@ -21,8 +21,8 @@ There are two directories which have frontend code and backend code.
 <img src="Screenshot_7.png" width="50%">
 
 - **Step 2. Run Angular CLI with `ng serve`**
+<img src="Screenshot_8.png" width="50%">
 
-![Screenshot8](Screenshot_8.png)
 - **Step 3. Open the browser with the address `http://localhost:4200/`**
 
 ## Web application result
