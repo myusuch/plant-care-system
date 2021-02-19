@@ -1,0 +1,397 @@
+[
+  {
+    "plantName": "Jasmine",
+    "lastWateredDate": 2,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Zanzibar gem plant",
+    "lastWateredDate": 9,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Elephant ears",
+    "lastWateredDate": 0,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Palm",
+    "lastWateredDate": 4,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Hosta",
+    "lastWateredDate": 0,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Moon valley plant",
+    "lastWateredDate": 0,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Banana tree",
+    "lastWateredDate": 6,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Dumbcane plant",
+    "lastWateredDate": 4,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Money Plant",
+    "lastWateredDate": 13,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Spider plant",
+    "lastWateredDate": 7,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Fetonia",
+    "lastWateredDate": 4,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "African violet",
+    "lastWateredDate": 0,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Jade plant",
+    "lastWateredDate": 8,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Snake Plant",
+    "lastWateredDate": 3,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Moses in a cradle",
+    "lastWateredDate": 0,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Cuban oregano",
+    "lastWateredDate": 10,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Kalanchoe",
+    "lastWateredDate": 6,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Begonia",
+    "lastWateredDate": 0,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Rubber plant",
+    "lastWateredDate": 0,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Prayer Plant",
+    "lastWateredDate": 2,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Jade plant",
+    "lastWateredDate": 3,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Coral cactus",
+    "lastWateredDate": 0,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Avocado seed",
+    "lastWateredDate": 10,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Cup Jade plant",
+    "lastWateredDate": 2,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Pointy leaves",
+    "lastWateredDate": 3,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Fall heather plant",
+    "lastWateredDate": 32,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Spider plant",
+    "lastWateredDate": 0,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Mandrake",
+    "lastWateredDate": 14,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Gillyweed",
+    "lastWateredDate": 2,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Nightshade",
+    "lastWateredDate": 2,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Boston fern",
+    "lastWateredDate": 0,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Dumbcane plant",
+    "lastWateredDate": 2,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Snake plant",
+    "lastWateredDate": 3,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Aloe vera",
+    "lastWateredDate": 0,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Pipe weed",
+    "lastWateredDate": 2,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Zebra Plant",
+    "lastWateredDate": 7,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Calathea Zebra Plant",
+    "lastWateredDate": 2,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Jade Plant",
+    "lastWateredDate": 3,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Crown of Thorns",
+    "lastWateredDate": 3,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Weeping Fig",
+    "lastWateredDate": 6,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Sago Palm",
+    "lastWateredDate": 5,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Wandering Jew",
+    "lastWateredDate": 0,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Miniature Wax Plant",
+    "lastWateredDate": 10,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Golden Pothos",
+    "lastWateredDate": 2,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Snake Plant",
+    "lastWateredDate": 3,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Prayer Plant",
+    "lastWateredDate": 7,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Wax Plant Begonia",
+    "lastWateredDate": 2,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Umbrella Plant",
+    "lastWateredDate": 2,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Arrowhead Plant",
+    "lastWateredDate": 10,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Rabbit's Foot Fern",
+    "lastWateredDate": 3,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Peace Lily",
+    "lastWateredDate": 3,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "ZZ plant",
+    "lastWateredDate": 5,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Parlor Palm",
+    "lastWateredDate": 4,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Rubber Plant",
+    "lastWateredDate": 2,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Ti Plant",
+    "lastWateredDate": 4,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Flamingo Flower",
+    "lastWateredDate": 3,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Coral Berry",
+    "lastWateredDate": 0,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Buddhist Pine",
+    "lastWateredDate": 3,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Cape fuchsia Cherry Ripe",
+    "lastWateredDate": 2,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Touch Me Not",
+    "lastWateredDate": 2,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Aloe vera",
+    "lastWateredDate": 2,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Lucky Bamboo",
+    "lastWateredDate": 3,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Sweet Alyssum",
+    "lastWateredDate": 2,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Poinsettia",
+    "lastWateredDate": 9,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Lily of the Valley",
+    "lastWateredDate": 4,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Cape Jasmine",
+    "lastWateredDate": 2,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Chrysanthemum/Florist's daisy",
+    "lastWateredDate": 0,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Areca Palm",
+    "lastWateredDate": 3,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Transvaal daisy",
+    "lastWateredDate": 3,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Peppermint",
+    "lastWateredDate": 7,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Rosemary",
+    "lastWateredDate": 4,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Jasmine",
+    "lastWateredDate": 3,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "English Ivy",
+    "lastWateredDate": 7,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "House Leek",
+    "lastWateredDate": 3,
+    "wateringFrequency": 4
+  },
+  {
+    "plantName": "Kale",
+    "lastWateredDate": 3,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Sunflower",
+    "lastWateredDate": 2,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Sweet Allison",
+    "lastWateredDate": 3,
+    "wateringFrequency": 2
+  },
+  {
+    "plantName": "Buckthorn",
+    "lastWateredDate": 8,
+    "wateringFrequency": 7
+  },
+  {
+    "plantName": "Wolfsbane",
+    "lastWateredDate": 4,
+    "wateringFrequency": 4
+  }
+]

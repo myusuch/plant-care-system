@@ -1,0 +1,36 @@
+.dialog-header {
+
+}
+
+.dialog-body {
+  padding: 20px;
+}
+
+.dialog-body div {
+  margin-bottom: 25px;
+}
+
+.dialog-footer {
+  float: right;
+  padding: 10px;
+}
+
+.dialog-button {
+  margin: 10px;
+  width: 100px;
+  height: 40px;
+}
+
+.plant-name {
+  font-weight: bold;
+}
+
+.save-button {
+  background-color: #4CAF50;
+  color: #FFF;
+  font-size: 16px;
+}
+
+.cancel-button {
+  font-size: 16px;
+}

@@ -1,0 +1,30 @@
+<div class="c-layout">
+  <h2>Plant Care System</h2>
+  <table class="c-table">
+    <thead>
+    <tr>
+      <th>Name</th>
+      <th>Watering Frequency</th>
+      <th>Last Watered Date</th>
+      <th>Status</th>
+      <th>Update</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    <tr *ngFor="let data of tableData">
+      <td>{{data.plantName}}</td>
+      <td>Every {{data.wateringFrequency}} days</td>
+      <td>{{data.lastWateredDate}} days ago</td>
+
+      <td *ngIf="data.lastWateredDate - data.wateringFrequency < -1" class="c-color-green"></td>
+      <td *ngIf="data.lastWateredDate - data.wateringFrequency == 0 ||
+                 data.lastWateredDate - data.wateringFrequency == -1 " class="c-color-lightgreen"></td>
+      <td *ngIf="data.lastWateredDate - data.wateringFrequency == 1 ||
+                 data.lastWateredDate - data.wateringFrequency == 2 " class="c-color-yellow"></td>
+      <td *ngIf="data.lastWateredDate - data.wateringFrequency > 2" class="c-color-red"></td>
+      <td class="cell-button"><button class="update-button" mat-raised-button (click)="updateDialog(data)">Update</button></td>
+    </tr>
+    </tbody>
+  </table>
+</div>

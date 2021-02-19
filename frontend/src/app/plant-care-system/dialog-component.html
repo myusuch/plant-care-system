@@ -1,0 +1,23 @@
+<div class="dialog-header">
+  <h2>Update Plant Information</h2>
+</div>
+<form class="example-form" [formGroup]="plantCareFormGroup" >
+  <div class="dialog-body">
+    <div>Plant Name : <span class="plant-name">{{plant.plantName}}</span></div>
+    <div>Watering Frequency :<span class="plant-name"> {{plant.wateringFrequency}}</span></div>
+
+    <mat-form-field class="example-full-width">
+      <mat-label>Last Watered Date</mat-label>
+      <input type="number" min="0" matInput formControlName="lastWateredDate" required>
+    </mat-form-field>
+  </div>
+</form>
+
+<div class="dialog-footer">
+  <button class="dialog-button cancel-button" mat-raised-button (click)="onNoClick()">Cancel</button>
+  <button class="dialog-button save-button" mat-raised-button (click)="onSaveClick()">Save</button>
+</div>
+
+
+
+
