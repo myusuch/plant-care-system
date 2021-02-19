@@ -19,4 +19,6 @@ Step 2. Run Angular CLI in command line under `frontend` with `ng serve`
 Step 3. Open the browser with the address `http://localhost:4200/`
 
 
-
+![Screenshot1](Screenshot_1.png)
+![Screenshot2](Screenshot_2.png)
+![Screenshot3](Screenshot_3.png)
