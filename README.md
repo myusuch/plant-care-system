@@ -7,21 +7,19 @@ There are two directories which have frontend code and backend code.
 
 ### How to run 
 - **Step 1. h2 DB connection** 
-
 <img src="Screenshot_4.png" width="50%">
 <img src="Screenshot_5.png" width="50%">
 
 - **Step 2. Run backend server with Spring Boot** 
-
-![Screenshot6](Screenshot_6.png)
+<img src="Screenshot_6.png" width="50%">
 
 ## frontend
 `SPA with Angular framework which provide UI side through 4200 port`
 
 ### How to run 
 - **Step 1. npm install in command line under `frontend`**
+<img src="Screenshot_7.png" width="50%">
 
-![Screenshot7](Screenshot_7.png)
 - **Step 2. Run Angular CLI with `ng serve`**
 
 ![Screenshot8](Screenshot_8.png)
