@@ -8,8 +8,8 @@ There are two directories which have frontend code and backend code.
 ### How to run 
 - **Step 1. h2 DB connection** 
 
-![Screenshot4](Screenshot_4.png)
-![Screenshot5](Screenshot_5.png)
+<img src="Screenshot_4.png" width="50%">
+<img src="Screenshot_5.png" width="50%">
 
 - **Step 2. Run backend server with Spring Boot** 
 
